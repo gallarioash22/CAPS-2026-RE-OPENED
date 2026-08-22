@@ -10,4 +10,10 @@ My opinion to improve:
 
 Yan lang ata na tatandaan ko na need improve, pero i hope may makita kayo na need pa ma improve and execute well para matuwa pa lalo si Sir Jelo, Since focus ng system nmn is funcunality eh kaya wala siya gaanong designs. Un lang nmn. Sana ung source na ito inspire lang , kasi if co copy niyo lahat baka maguluhan kayo HHAHAHAHA, mahirap pa nmn ayusin if marami ng files. And dont be afraid to use AI, AI can help u to make ur code faster, pero wag lang copy paste ng copy paste. Alamin niyo din kung paano siya nag wo work , mahirap i debug kapag ai, So need niyo parin ng critical thinking.
 
+FYI: Ako lang gumawa ng capstone nmn :(. Kaya to all yall members tulungan niyo kung sino gumagawa ng capstone niyo, sobrang hirap kapag siya lang gumagawa. Sakit ulo tas Puyat ma fe feel niya, Based what i experience so i hope tulungan niyo siya. Ako kinaya ko, siya ba kakayanin niya?? So TEAMWORK is the key!
+
+I work our capstone around: 2 months ata (jan and Feb) MArch ung final defense nmn nun.
+So gawin niyo ng maaga , para marami kayo ma add.
+
 So in conclusion good luck sa inyo sa CAPSTONE defense!
+
